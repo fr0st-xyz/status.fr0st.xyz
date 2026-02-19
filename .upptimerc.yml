@@ -17,7 +17,7 @@ sites:
       - 200
       - 201
       - 202
-  - name: memos.fr0st.xyz
+  - name: notes.fr0st.xyz
     url: https://notes.fr0st.xyz/
     expectedStatusCodes:
       - 200
