@@ -93,21 +93,22 @@
     "url": "https://notes.fr0st.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/notes.fr0st.xyz.ico",
     "slug": "notes-fr0st-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
-    "time": 868,
-    "timeDay": 1096,
-    "timeWeek": 1039,
-    "timeMonth": 1009,
-    "timeYear": 868,
+    "time": 861,
+    "timeDay": 561,
+    "timeWeek": 913,
+    "timeMonth": 978,
+    "timeYear": 861,
     "dailyMinutesDown": {
       "2026-04-04": 209,
       "2026-04-06": 409,
-      "2026-04-09": 73
+      "2026-04-09": 73,
+      "2026-06-05": 0
     }
   },
   {
@@ -174,21 +175,22 @@
     "url": "https://git.fr0st.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/git.fr0st.xyz.ico",
     "slug": "git-fr0st-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 538,
-    "timeDay": 565,
-    "timeWeek": 508,
-    "timeMonth": 529,
-    "timeYear": 538,
+    "time": 535,
+    "timeDay": 296,
+    "timeWeek": 448,
+    "timeMonth": 513,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2026-01-29": 60,
       "2026-04-04": 209,
-      "2026-04-06": 409
+      "2026-04-06": 409,
+      "2026-06-05": 0
     }
   }
 ]
