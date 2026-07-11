@@ -93,15 +93,15 @@
     "url": "https://notes.fr0st.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/notes.fr0st.xyz.ico",
     "slug": "notes-fr0st-xyz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
     "time": 872,
-    "timeDay": 576,
-    "timeWeek": 799,
+    "timeDay": 690,
+    "timeWeek": 812,
     "timeMonth": 917,
     "timeYear": 872,
     "dailyMinutesDown": {
@@ -110,7 +110,7 @@
       "2026-04-09": 73,
       "2026-06-06": 124,
       "2026-06-05": 635,
-      "2026-07-11": 0
+      "2026-07-11": 2
     }
   },
   {
