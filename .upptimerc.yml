@@ -1,5 +1,5 @@
 # Change these first
-owner: fr0st-iwnl  # Your GitHub organization or username, where this repository lives
+owner: fr0st-xyz  # Your GitHub organization or username, where this repository lives
 repo: status.fr0st.xyz # The name of this repository
 
 sites:
@@ -37,6 +37,18 @@ sites:
       - 202
   - name: git.fr0st.xyz
     url: https://git.fr0st.xyz/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 202
+  - name: gist.fr0st.xyz
+    url: https://gist.fr0st.xyz/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 202
+  - name: sys.fr0st.xyz
+    url: https://sys.fr0st.xyz/
     expectedStatusCodes:
       - 200
       - 201
