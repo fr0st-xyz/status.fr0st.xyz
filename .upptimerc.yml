@@ -63,9 +63,10 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   cname: status.fr0st.xyz
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/fr0st-xyz/status.fr0st.xyz/master/assets/upptime-icon.svg
   name: fr0st Status
   introTitle: "**fr0st Status** — Real-time uptime for my projects and services."
   introMessage: This page shows live status for all my important sites and services.
