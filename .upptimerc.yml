@@ -47,6 +47,12 @@ sites:
       - 200
       - 201
       - 202
+  - name: bookmarks.fr0st.xyz
+    url: https://bookmarks.fr0st.xyz/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 202
   - name: sys.fr0st.xyz
     url: https://sys.fr0st.xyz/
     expectedStatusCodes:
